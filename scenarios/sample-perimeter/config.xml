@@ -14,13 +14,15 @@
     </module>
 
     <module name="plans">
-        <param name="inputPlansFile" value="plans.xml"/>
+        <param name="inputPlansFile" value="plans-1.xml"/>
+<!--        <param name="inputPlansFile" value="plans-all.xml"/>-->
     </module>
 
     <module name="controller"> <!-- Corrected from controler -->
         <param name="outputDirectory" value="./output"/>
+<!--        <param name="outputDirectory" value="./output-all"/>-->
         <param name="firstIteration" value="0"/>
-        <param name="lastIteration" value="10"/>
+        <param name="lastIteration" value="100"/>
         <param name="writePlansInterval" value="1"/>
         <param name="writeEventsInterval" value="1"/>
     </module>
