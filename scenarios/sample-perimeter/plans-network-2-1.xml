@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plans SYSTEM "http://www.matsim.org/files/dtd/plans_v4.dtd">
+<plans><person id="1"><plan selected="yes"><act type="evacuation" x="-121.438176" y="37.759815" end_time="00:00:00" /><leg mode="car" /><act type="evacuation" x="-121.4351484" y="37.7629276" /></plan></person></plans>
